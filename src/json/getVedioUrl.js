@@ -44,7 +44,7 @@ txtFiles.filter( file => file === 'RxjsMistake.txt' ).map( file => {
   } )
 } )
 
-function getHttpReqCallback ( src, dirName, fileName ) {
+function getHttpReqCallback ( dirName, fileName ) {
   var fileName = `${fileName}.mp4`;
   var callback = function ( res ) {
     var fileBuff = [];
@@ -61,7 +61,7 @@ function getHttpReqCallback ( src, dirName, fileName ) {
 }
 
 function startDownloadTask ( src, dirName, fileName ) {
-  var req = http.request( src, getHttpReqCallback( src, dirName, fileName ) );
+  var req = http.request( src, getHttpReqCallback( dirName, fileName ) );
   req.on( 'error', function ( e ) {} );
   req.end();
 }

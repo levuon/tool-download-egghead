@@ -1,0 +1,12 @@
+https://egghead.io/lessons/angular-2-start-an-ionic-2-app-with-the-cli
+https://egghead.io/lessons/angular-2-build-your-first-page-component-with-ionic-2
+https://egghead.io/lessons/angular-2-use-sliding-gestures-to-reorder-an-ionic-2-list
+https://egghead.io/lessons/angular-2-use-the-ionic-cli-to-generate-angular-2-mobile-components
+https://egghead.io/lessons/angular-2-fetch-data-from-an-api-using-angular-2-http-module
+https://egghead.io/lessons/angular-2-lazy-load-data-with-ionic-2
+https://egghead.io/lessons/angular-2-navigate-between-mobile-screens-with-the-ionic-2-navcontroller
+https://egghead.io/lessons/angular-2-preview-an-angular-2-mobile-app-with-ionic-lab
+https://egghead.io/lessons/angular-2-create-angular-2-mobile-card-based-layouts-with-ionic-2
+https://egghead.io/lessons/angular-2-use-ionic-2-navcontroller-to-manipulate-app-history
+https://egghead.io/lessons/angular-2-create-an-overlay-component-with-the-ionic-2-overlay-api
+https://egghead.io/lessons/angular-2-create-a-native-mobile-side-menu-layout-in-ionic-2

@@ -1,0 +1,14 @@
+https://egghead.io/lessons/node-js-set-up-a-basic-twitter-bot-with-twit-js
+https://egghead.io/lessons/node-js-post-statuses-with-twit-js
+https://egghead.io/lessons/node-js-work-with-users-in-twit-js
+https://egghead.io/lessons/node-js-interact-with-tweets-with-twit-js
+https://egghead.io/lessons/node-js-use-the-twitter-search-api-with-twit-js
+https://egghead.io/lessons/node-js-use-the-twitter-stream-api-with-twit-js
+https://egghead.io/lessons/node-js-tweet-media-files-with-twit-js
+https://egghead.io/lessons/node-js-make-a-bot-that-sounds-like-you-with-rita-js
+https://egghead.io/lessons/node-js-make-a-bot-that-analyzes-human-emotions-in-photos-with-google-cloud-vision-api
+https://egghead.io/lessons/node-js-make-a-story-generation-bot-with-tracery
+https://egghead.io/lessons/node-js-retrieve-and-tweet-information-from-google-spreadsheets
+https://egghead.io/lessons/node-js-make-a-twitter-audio-bot-that-composes-a-song-based-on-a-tweet
+https://egghead.io/lessons/node-js-host-a-simple-twitter-bot-using-heroku
+https://egghead.io/lessons/docker-host-a-complex-bot-using-heroku-and-docker

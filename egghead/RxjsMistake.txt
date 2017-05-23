@@ -1,0 +1,12 @@
+https://egghead.io/lessons/rxjs-convert-rxjs-subjects-to-observables
+https://egghead.io/lessons/rxjs-replace-observable-create-with-observable-creation-helpers
+https://egghead.io/lessons/rxjs-use-takeuntil-instead-of-manually-unsubscribing-from-observables
+https://egghead.io/lessons/rxjs-convert-an-underlying-source-of-data-into-an-observable
+https://egghead.io/lessons/rxjs-use-the-map-operator-instead-of-firing-events-on-a-subject
+https://egghead.io/lessons/rxjs-use-flattening-operators-instead-of-nested-subscriptions
+https://egghead.io/lessons/rxjs-use-switchmap-to-avoid-leaks-when-flattening
+https://egghead.io/lessons/rxjs-replace-zip-with-combinelatest-when-combining-sources-of-data
+https://egghead.io/lessons/rxjs-move-important-side-effects-from-do-to-subscribe
+https://egghead.io/lessons/rxjs-implement-pause-and-resume-feature-correctly-through-rxjs
+https://egghead.io/lessons/rxjs-know-when-to-extend-the-observable-class
+https://egghead.io/lessons/rxjs-make-observables-hot-only-where-necessary
